@@ -60,7 +60,7 @@ app.layout = html.Div(children=[
         ], className='twelve columns'),
 
     html.Br(),
-    html.A('Code on Github', href='https://github.com/austinlasseter/knn_iris_plotly'),
+    html.A('Code on Github', href='https://github.com/brandonmoore38/knn_iris_plotly'),
     ])
 ])
 
